@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Note
 
-Before you run this project make sure you have installed Node.js 12.22.0 or later
+Before you run this project make sure you have installed Node.js 12.22.0 or later and MongoDB in your computer
 
 ## Getting Started
 
