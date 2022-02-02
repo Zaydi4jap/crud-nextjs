@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## This is CRUD App using NEXT.js and MongoDB database
+
 ## Note
 
 Before you run this project make sure you have installed Node.js 12.22.0 or later
